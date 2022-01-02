@@ -35,18 +35,7 @@ export default function App() {
 
 - 🌱 I’m currently learning **React and redux.**
 
-- 💬 Ask me about **react or php**
-
-- ⚡ Fun fact **I am 15 years old.**
-
-<h1 align="center">Hi 👋, I'm Sharky</h1>
-<h3 align="center">A developer from Santiago, Chile.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkydeveloping&label=Profile%20views&color=0e75b6&style=flat" alt="sharkydeveloping" /> </p>
-
-- 🌱 I’m currently learning **React and redux.**
-
-- 💬 Ask me about **react or php**
+- 💬 Ask me about **react or php.**
 
 - ⚡ Fun fact **I am 15 years old.**
 
