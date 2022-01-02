@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Sharky</h1>
+<h3 align="center">A developer from Santiago, Chile.</h3>
+
 ```js
 import { useState, useEffect } from 'react'
 
@@ -27,8 +30,6 @@ export default function App() {
   )
 }
 ```
-<h1 align="center">Hi 👋, I'm Sharky</h1>
-<h3 align="center">A developer from Santiago, Chile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkydeveloping&label=Profile%20views&color=0e75b6&style=flat" alt="sharkydeveloping" /> </p>
 
