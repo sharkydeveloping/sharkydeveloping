@@ -37,7 +37,7 @@ export default function App() {
 
 - 💬 Ask me about **react or php.**
 
-- ⚡ Fun fact **I am 15 years old.**
+- ⚡ Fun fact **I am 15 years old, and I quite remember how to use lua (With FiveM).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
