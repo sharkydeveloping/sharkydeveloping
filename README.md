@@ -19,7 +19,7 @@ export default function App() {
       {
         knowledge.map((data) => {
           return (
-            <li>data</li>
+            <li>{data}</li>
           )
         })
       }
