@@ -35,7 +35,7 @@ export default function App() {
 
 - 🌱 I’m currently learning **Vue.js and Solidity.**
 
-- 💬 Ask me about **react or php.**
+- 💬 Ask me about **React, firebase, sql and Node.js.**
 
 - ⚡ Fun fact **I am 15 years old, and I quite remember how to use lua (With FiveM).**
 
