@@ -33,7 +33,7 @@ export default function App() {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkydeveloping&label=Profile%20views&color=0e75b6&style=flat" alt="sharkydeveloping" /> </p>
 
-- 🌱 I’m currently learning **Vue.js and Solidity.**
+- 🌱 I’m currently learning **Python, machine learning**
 
 - 💬 Ask me about **React, firebase, sql and Node.js.**
 
