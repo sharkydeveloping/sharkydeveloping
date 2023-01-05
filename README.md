@@ -37,7 +37,7 @@ export default function App() {
 
 - 💬 Ask me about **React, firebase, sql and Node.js.**
 
-- ⚡ Fun fact **I am 15 years old, and I quite remember how to use lua (With FiveM).**
+- ⚡ Fun fact **I am 16 years old, and I quite remember how to use lua (With FiveM).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
