@@ -8,7 +8,7 @@ export default function App() {
   const [knowledge, setKnowledge] = useState([])
   const [name, setName] = useState('Sharky')
   
-  useEffect(() => {.
+  useEffect(() => {
     setKnowledge(['Typescript', 'React.js', 'Next.js 13', 'Prisma', 'Express.js'])
   }, [])
   
