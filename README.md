@@ -8,8 +8,8 @@ export default function App() {
   const [knowledge, setKnowledge] = useState([])
   const [name, setName] = useState('Sharky')
   
-  useEffect(() => {
-    setKnowledge(['Javascript', 'PHP', 'HTML', 'CSS', 'React Native'])
+  useEffect(() => {.
+    setKnowledge(['Typescript', 'React.js', 'Next.js 13', 'Prisma', 'Express.js'])
   }, [])
   
   return (
